@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Algorithm Details and Formulations}{}
+\BOOKMARK [2][-]{subsection.1.1}{TSPLIB95}{section.1}
+\BOOKMARK [2][-]{subsection.1.2}{Depth First Search: Branch and Bound}{section.1}
+\BOOKMARK [2][-]{subsection.1.3}{Load Balancing: Asynchronous Round Robin}{section.1}
+\BOOKMARK [2][-]{subsection.1.4}{Asynchronous MPI Messages}{section.1}
+\BOOKMARK [2][-]{subsection.1.5}{Termination Detection}{section.1}
+\BOOKMARK [1][-]{section.2}{Input and parameters}{}
+\BOOKMARK [1][-]{section.3}{Results}{}
+\BOOKMARK [1][-]{section.4}{Analysis and Lessons}{}

@@ -1,0 +1,633 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2011.10.24)  5 DEC 2011 00:28
+entering extended mode
+ Source specials enabled.
+ %&-line parsing enabled.
+**cs566-a4.tex
+(./cs566-a4.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, pinyin, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2009/04/10 v2.0 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2008/11/04 v1.4 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+Package: hycolor 2009/10/02 v1.5 Code for color options of hyperref/bookmark (H
+O)
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
+Package: xcolor-patch 2009/10/02 xcolor patch
+))
+\@linkdim=\dimen103
+\Hy@linkcounter=\count87
+\Hy@pagecounter=\count88
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2007/12/12 v1.2 Prefix for e-TeX command names (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2007/09/09 v1.2 Providing info/warning/message (HO)
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2009/08/13 v3.4 Keyval support for LaTeX options (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2009/07/30 v1.5 Key value parser with default handler suppor
+t (HO)
+))
+Package hyperref Info: Hyper figures OFF on input line 2975.
+Package hyperref Info: Link nesting OFF on input line 2980.
+Package hyperref Info: Hyper index ON on input line 2983.
+Package hyperref Info: Plain pages OFF on input line 2990.
+Package hyperref Info: Backreferencing OFF on input line 2995.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3191.
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 3428.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2009/09/23 v0.6 LuaTeX support for pdfTeX utility functions
+ (HO)
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2009/04/17 v1.2 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2009/08/05 v1.0 Some LaTeX kernel commands for general use (HO
+)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+)))
+\Fld@menulength=\count89
+\Field@Width=\dimen104
+\Fld@charsize=\dimen105
+\Field@toks=\toks15
+Package hyperref Info: Hyper figures OFF on input line 4377.
+Package hyperref Info: Link nesting OFF on input line 4382.
+Package hyperref Info: Hyper index ON on input line 4385.
+Package hyperref Info: backreferencing OFF on input line 4392.
+Package hyperref Info: Link coloring OFF on input line 4397.
+Package hyperref Info: Link coloring with OCG OFF on input line 4402.
+Package hyperref Info: PDF/A mode OFF on input line 4407.
+
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
+)
+\Hy@abspage=\count90
+\c@Item=\count91
+\c@Hfootnote=\count92
+)
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
+\Fld@listcount=\count93
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(/usr/share/texmf/tex/latex/beamer/base/multimedia/multimedia.sty
+Package: multimedia 2004/04/10 ver 0.01
+\mm@movie=\count95
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2000/09/19 1.3
+
+Style option: `fancybox' v1.3 <2000/09/19> (tvz)
+\@fancybox=\box26
+\shadowsize=\dimen108
+\@Sbox=\box27
+\do@VerbBox=\toks17
+\the@fancyput=\toks18
+\this@fancyput=\toks19
+\EndVerbatimTokens=\toks20
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (/usr/share/texmf-texlive/tex/latex/pseudocode/pseudocode.sty
+** 
+** Document Style `pseudocode' - environment 
+** by D.L. Kreher and D.R. Stinson 
+** 
+** The pseudocode environment was originally developed for the book
+** Combinatorial Algorithms: Enumeration, Generation, and Search
+** CRC Press, 1999. 
+Package: pseudocode 
+\pcode@width=\skip43
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@pseudocode=\count96
+\c@pseudonum=\count97
+)
+(/usr/share/texmf-texlive/tex/latex/psnfss/pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(/usr/share/texmf-texlive/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen109
+)
+(/usr/share/texmf-texlive/tex/latex/slashbox/slashbox.sty
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box28
+\@slashboxb=\box29
+\@slashboxc=\box30
+\@slashboxwd=\count98
+\@slashboxht=\count99
+\@slashsepl=\dimen110
+\@slashsepr=\dimen111
+) (/usr/share/texmf-texlive/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2009/02/07 v0.4g Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count100
+\calc@Bcount=\count101
+\calc@Adimen=\dimen112
+\calc@Bdimen=\dimen113
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count102
+\calc@Cskip=\skip46
+)
+(/usr/share/texmf-texlive/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2006/07/14 v1.1d eso-pic (RN)
+
+(/usr/share/texmf-texlive/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf-texlive/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2009/02/07 v0.4g Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box31
+\AM@toc@title=\toks21
+\c@AM@survey=\count103
+\AM@templatesizebox=\box32
+)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/picture.sty
+Package: picture 2009/10/11 v1.3 Dimens for picture macros (HO)
+Package picture Info: Calculation method: calc.
+)
+(/usr/share/texmf-texlive/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count104
+\c@@ppsavesec=\count105
+\c@@ppsaveapp=\count106
+) (./cs566-a4.aux)
+\openout1 = `cs566-a4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+Package hyperref Info: Link coloring OFF on input line 27.
+
+(/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
+
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+\c@section@level=\count107
+)
+LaTeX Info: Redefining \ref on input line 27.
+LaTeX Info: Redefining \pageref on input line 27.
+ (./cs566-a4.out)
+(./cs566-a4.out)
+\@outlinefile=\write4
+\openout4 = `cs566-a4.out'.
+
+\AtBeginShipoutBox=\box33
+ (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen114
+\scratchbox=\box34
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen115
+\MPnumerator=\count112
+\everyMPtoPDFconversion=\toks23
+) ABD: EveryShipout initializing macros
+(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/etc/texmf/tex/latex/config/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Underfull \hbox (badness 1371) in paragraph at lines 115--115
+[][]\OT1/cmr/m/n/9 Broadcast the new global
+ []
+
+[3] [4]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_c.pdf, id=78, page=1, 614.295pt x 794.97pt>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 1>
+File: code/tsp_c.pdf Graphic file (type pdf)
+ <use code/tsp_c.pdf, page 1>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 1>
+File: code/tsp_c.pdf Graphic file (type pdf)
+ <use code/tsp_c.pdf, page 1>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 1> [5
+
+ <./code/tsp_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_c.pdf, id=106, page=2, 614.295pt x 794.97pt>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 2>
+File: code/tsp_c.pdf Graphic file (type pdf)
+ <use code/tsp_c.pdf, page 2>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 2> [6 <./code/tsp_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_c.pdf, id=112, page=3, 614.295pt x 794.97pt>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 3>
+File: code/tsp_c.pdf Graphic file (type pdf)
+ <use code/tsp_c.pdf, page 3>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 3> [7 <./code/tsp_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_c.pdf, id=119, page=4, 614.295pt x 794.97pt>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 4>
+File: code/tsp_c.pdf Graphic file (type pdf)
+ <use code/tsp_c.pdf, page 4>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 4> [8 <./code/tsp_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_c.pdf, id=125, page=5, 614.295pt x 794.97pt>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 5>
+File: code/tsp_c.pdf Graphic file (type pdf)
+ <use code/tsp_c.pdf, page 5>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 5> [9 <./code/tsp_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_c.pdf, id=131, page=6, 614.295pt x 794.97pt>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 6>
+File: code/tsp_c.pdf Graphic file (type pdf)
+ <use code/tsp_c.pdf, page 6>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 6> [10 <./code/tsp_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_c.pdf, id=137, page=7, 614.295pt x 794.97pt>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 7>
+File: code/tsp_c.pdf Graphic file (type pdf)
+ <use code/tsp_c.pdf, page 7>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 7> [11 <./code/tsp_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_c.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_c.pdf, id=143, page=8, 614.295pt x 794.97pt>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 8>
+File: code/tsp_c.pdf Graphic file (type pdf)
+ <use code/tsp_c.pdf, page 8>
+File: code/tsp_c.pdf Graphic file (type pdf)
+
+<use code/tsp_c.pdf, page 8> [12 <./code/tsp_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_h.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_h.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_h.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_h.pdf, id=153, page=1, 614.295pt x 794.97pt>
+File: code/tsp_h.pdf Graphic file (type pdf)
+
+<use code/tsp_h.pdf, page 1>
+File: code/tsp_h.pdf Graphic file (type pdf)
+ <use code/tsp_h.pdf, page 1>
+File: code/tsp_h.pdf Graphic file (type pdf)
+
+<use code/tsp_h.pdf, page 1>
+File: code/tsp_h.pdf Graphic file (type pdf)
+ <use code/tsp_h.pdf, page 1>
+File: code/tsp_h.pdf Graphic file (type pdf)
+
+<use code/tsp_h.pdf, page 1> [13 <./code/tsp_h.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsp_h.pdf): PDF inclusion: found
+ PDF version <1.5>, but at most version <1.4> allowed
+<code/tsp_h.pdf, id=182, page=2, 614.295pt x 794.97pt>
+File: code/tsp_h.pdf Graphic file (type pdf)
+
+<use code/tsp_h.pdf, page 2>
+File: code/tsp_h.pdf Graphic file (type pdf)
+ <use code/tsp_h.pdf, page 2>
+File: code/tsp_h.pdf Graphic file (type pdf)
+
+<use code/tsp_h.pdf, page 2> [14 <./code/tsp_h.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsplib95_c.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsplib95_c.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsplib95_c.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+<code/tsplib95_c.pdf, id=192, page=1, 614.295pt x 794.97pt>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+
+<use code/tsplib95_c.pdf, page 1>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+ <use code/tsplib95_c.pdf, page 1>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+
+<use code/tsplib95_c.pdf, page 1>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+ <use code/tsplib95_c.pdf, page 1>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+
+<use code/tsplib95_c.pdf, page 1> [15 <./code/tsplib95_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsplib95_c.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+<code/tsplib95_c.pdf, id=220, page=2, 614.295pt x 794.97pt>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+
+<use code/tsplib95_c.pdf, page 2>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+ <use code/tsplib95_c.pdf, page 2>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+
+<use code/tsplib95_c.pdf, page 2> [16 <./code/tsplib95_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsplib95_c.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+<code/tsplib95_c.pdf, id=226, page=3, 614.295pt x 794.97pt>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+
+<use code/tsplib95_c.pdf, page 3>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+ <use code/tsplib95_c.pdf, page 3>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+
+<use code/tsplib95_c.pdf, page 3> [17 <./code/tsplib95_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsplib95_c.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+<code/tsplib95_c.pdf, id=232, page=4, 614.295pt x 794.97pt>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+
+<use code/tsplib95_c.pdf, page 4>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+ <use code/tsplib95_c.pdf, page 4>
+File: code/tsplib95_c.pdf Graphic file (type pdf)
+
+<use code/tsplib95_c.pdf, page 4> [18 <./code/tsplib95_c.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsplib95_h.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsplib95_h.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/tsplib95_h.pdf): PDF inclusion: 
+found PDF version <1.5>, but at most version <1.4> allowed
+<code/tsplib95_h.pdf, id=242, page=1, 614.295pt x 794.97pt>
+File: code/tsplib95_h.pdf Graphic file (type pdf)
+
+<use code/tsplib95_h.pdf, page 1>
+File: code/tsplib95_h.pdf Graphic file (type pdf)
+ <use code/tsplib95_h.pdf, page 1>
+File: code/tsplib95_h.pdf Graphic file (type pdf)
+
+<use code/tsplib95_h.pdf, page 1>
+File: code/tsplib95_h.pdf Graphic file (type pdf)
+ <use code/tsplib95_h.pdf, page 1>
+File: code/tsplib95_h.pdf Graphic file (type pdf)
+
+<use code/tsplib95_h.pdf, page 1> [19 <./code/tsplib95_h.pdf>]
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/Makefile.pdf): PDF inclusion: fo
+und PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/Makefile.pdf): PDF inclusion: fo
+und PDF version <1.5>, but at most version <1.4> allowed
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./code/Makefile.pdf): PDF inclusion: fo
+und PDF version <1.5>, but at most version <1.4> allowed
+<code/Makefile.pdf, id=275, page=1, 614.295pt x 794.97pt>
+File: code/Makefile.pdf Graphic file (type pdf)
+
+<use code/Makefile.pdf, page 1>
+File: code/Makefile.pdf Graphic file (type pdf)
+ <use code/Makefile.pdf, page 1>
+File: code/Makefile.pdf Graphic file (type pdf)
+
+<use code/Makefile.pdf, page 1>
+File: code/Makefile.pdf Graphic file (type pdf)
+ <use code/Makefile.pdf, page 1>
+File: code/Makefile.pdf Graphic file (type pdf)
+
+<use code/Makefile.pdf, page 1> [20 <./code/Makefile.pdf>] (./cs566-a4.aux) ) 
+Here is how much of TeX's memory you used:
+ 5834 strings out of 493848
+ 84521 string characters out of 1152822
+ 160331 words of memory out of 3000000
+ 8953 multiletter control sequences out of 15000+50000
+ 12519 words of font info for 49 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 38i,16n,37p,253b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
+</
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/ams
+fonts/cm/cmr17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr
+6.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmtt9.pfb>
+Output written on cs566-a4.pdf (20 pages, 303340 bytes).
+PDF statistics:
+ 347 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 207 words of extra memory for PDF output out of 10000 (max. 10000000)
+
